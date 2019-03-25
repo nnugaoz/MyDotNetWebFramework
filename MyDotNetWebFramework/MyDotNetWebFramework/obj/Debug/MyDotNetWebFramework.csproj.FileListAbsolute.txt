@@ -1,0 +1,6 @@
+F:\35_Git\MyDotNetWebFramework\MyDotNetWebFramework\MyDotNetWebFramework\bin\MyDotNetWebFramework.dll.config
+F:\35_Git\MyDotNetWebFramework\MyDotNetWebFramework\MyDotNetWebFramework\bin\MyDotNetWebFramework.dll
+F:\35_Git\MyDotNetWebFramework\MyDotNetWebFramework\MyDotNetWebFramework\bin\MyDotNetWebFramework.pdb
+F:\35_Git\MyDotNetWebFramework\MyDotNetWebFramework\MyDotNetWebFramework\obj\Debug\MyDotNetWebFramework.csprojResolveAssemblyReference.cache
+F:\35_Git\MyDotNetWebFramework\MyDotNetWebFramework\MyDotNetWebFramework\obj\Debug\MyDotNetWebFramework.dll
+F:\35_Git\MyDotNetWebFramework\MyDotNetWebFramework\MyDotNetWebFramework\obj\Debug\MyDotNetWebFramework.pdb
